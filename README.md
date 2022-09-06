@@ -1,5 +1,5 @@
 # Hula
-Hula is a real-time chat application build using Socket.io fro real time communication and stores user details in encrypted format in MongoDB Database.
+Hula is a real-time chat application build using Socket.io for real time communication and stores user details in encrypted format in MongoDB Database.
 
 ## Tech Stack
 
